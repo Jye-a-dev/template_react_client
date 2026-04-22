@@ -1,5 +1,10 @@
 # React Client Template
 
+## Clone repo này
+```bash
+git clone https://github.com/Jye-a-dev/template_react_client.git
+```
+
 Template khởi tạo cho React client app theo hướng dễ mở rộng, dùng:
 
 - React 19
